@@ -1,6 +1,5 @@
 # Overlook-Chess-Code
-index.html:
-
+# index.html:
 
 <!doctype html>
 <html lang="en">
